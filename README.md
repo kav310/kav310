@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Kavya Malimpati
+# Hi, I'm Kavya Malimpati 👋👨🏻‍💻 
 
 - 🔭 I’m currently working on ... Frontend Web Development
 - 🌱 I’m currently learning ... React and Redux
