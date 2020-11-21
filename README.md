@@ -6,7 +6,6 @@
 - 🤔 I’m looking for help with ... Node.js
 - 💬 Ask me about ... anything
 - 📫 How to reach me: ... malimpatikavya@gmail.com
-- 😄 Pronouns: ... he/him
 <h5 ><a href="https://kav310.github.io/</a></h5>
 <h4 >Mern Stack Developer</h4>
 <h5>
