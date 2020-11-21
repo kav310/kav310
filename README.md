@@ -28,3 +28,7 @@ Looking forward to join a company where I can contribute towards individual and 
    <img src="https://img.shields.io/badge/mongodb%20-%23e34f26.svg?&style=for-the-badge&logo=mongodb&logoColor=white" />
    <img src="https://img.shields.io/badge/nodejs%20-%23e34f26.svg?&style=for-the-badge&logo=nodejs&logoColor=white" />
  </p>
+  <p align='left'>
+  <img src="https://github-readme-stats.vercel.app/api?username=kav310&theme=tokyonight&show_icons=true&count_private=true" height="207px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kav310&theme=tokyonight"/>
+</P>
