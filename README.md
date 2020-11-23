@@ -1,7 +1,7 @@
 # Hi, I'm Kavya Malimpati 👋👨🏻‍💻 
 
 - 🔭 I’m currently working on ... Frontend Web Development
-- 🌱 I’m currently learning ... React and Redux
+- 🌱 I’m currently learning ... Mongodb and Sql
 - 👯 I’m looking to collaborate on ... React.js
 - 🤔 I’m looking for help with ... Node.js
 - 💬 Ask me about ... anything
