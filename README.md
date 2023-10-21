@@ -1,7 +1,7 @@
 # Hi, I'm Kavya Malimpati 👋👨🏻‍💻 
 
 - 🔭 I’m currently working on ... Full Stack Developer
-- 🌱 I’m currently learning ... Mongodb and Sql
+- 🌱 I’m currently learning ... Cloud Infrasturce
 - 👯 I’m looking to collaborate on ... React.js, Node.js, React Native
 - 💬 Ask me about ... anything
 - 📫 How to reach me: ... malimpatikavya@gmail.com
